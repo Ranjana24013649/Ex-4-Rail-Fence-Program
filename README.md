@@ -67,5 +67,7 @@ STEP-5: Read the characters row wise or column wise in the former order to get t
 
 
 # OUTPUT
+<img width="1679" height="955" alt="image" src="https://github.com/user-attachments/assets/dd2eb8de-6ec9-4482-a370-14e67f14a737" />
 
 # RESULT
+The program is executed successfully
